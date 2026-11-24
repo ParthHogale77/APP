@@ -1,0 +1,11 @@
+2026-11-03 09:37:19 - Experiment14Logger - DEBUG - This is a DEBUG message (Detailed info for developers).
+2026-11-03 09:37:19 - Experiment14Logger - INFO - This is an INFO message (General program status).
+2026-11-03 09:37:19 - Experiment14Logger - WARNING - This is a WARNING message (Something unexpected happened).
+2026-11-03 09:37:19 - Experiment14Logger - ERROR - This is an ERROR message (A serious problem occurred).
+2026-11-03 09:37:19 - Experiment14Logger - CRITICAL - This is a CRITICAL message (System crash or severe failure).
+2026-11-03 09:37:19 - Experiment14Logger - ERROR - An exception occurred: Division by zero!
+Traceback (most recent call last):
+  File "c:\Users\Saurabh Jain\Desktop\PRASUK JAIN\VS Code\School\Advanced Python Programming\logging_excercise.py", line 40, in <module>
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
